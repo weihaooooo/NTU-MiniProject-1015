@@ -1,4 +1,4 @@
 # NTU-MiniProject-1015
-SC19\n
+SC19
 
 death
