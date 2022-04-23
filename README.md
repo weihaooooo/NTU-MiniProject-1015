@@ -1,4 +1,4 @@
 # NTU-MiniProject-1015
 SC19
 
-death
+As one of the most popular sports on the planet, football has always been followed very closely by a large number of people. The betting market has grown very rapidly in the last decade, thanks to increased coverage of live football matches as well as higher accessibility to betting websites thanks to the development of mobile and tablet devices. According to the current estimates, the sports betting industry is valued at a whopping £600 billion per year, which includes all legal and illegal markets. Trading on football is estimated to account for 71% of that total. Outcomes from sports matches can be difficult to predict. As such the main objective of this project is to explore different Machine Learning techniques to predict the score and outcome of football matches, using various parameters that are relevant in helping us to predict.
